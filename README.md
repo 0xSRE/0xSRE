@@ -1,11 +1,4 @@
-### Hi there 👋
-
-Find my latest work and links to my YouTube, Twitter, etc.
-
-If you like my work and want me to be able to keep improving it, please sponsor me on GitHub.
-
-
-<h1 align="center">Hi, I'm Widi! 👋</h1>
+<h1 align="center">Hi, I'm Jumpsre! 👋</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
 <p align="center">
