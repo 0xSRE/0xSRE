@@ -8,7 +8,7 @@
 ### 💻 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,ubuntu,debian,redhat,ansible,bash,mysql,postgres,mongodb,sqlite,nodejs,ts,react,rust,solidity,php,python,pycharm,postman,nginx,prometheus,grafana,jenkins,aws,openstack,cloud,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,ubuntu,debian,redhat,ansible,bash,mysql,postgres,mongodb,sqlite,nodejs,ts,react,rust,solidity,php,python,pycharm,postman,nginx,prometheus,grafana,jenkins,aws,openstack,kubernetes" />
   </a>
 </p>
 
