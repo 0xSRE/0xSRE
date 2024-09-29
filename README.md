@@ -11,3 +11,14 @@
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,mysql,postgres,mongodb,sqlite,nodejs,ts,react,rust,solidity,php,python,pycharm,postman,ansible,aws" />
   </a>
 </p>
+
+
+### 📊 Most Used Repository Language
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumpsre&theme=tokyonight&layout=pie" alt="Top Langs"/>
+</p>
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jumpsre&show_icons=true&include_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight" alt="Jumpsre's GitHub Stats"/>
+</p>
